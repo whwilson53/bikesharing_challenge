@@ -5,3 +5,20 @@ The purpose of this analysis was to explore a successful bike-sharing venture to
 
 ## Results
 ![Figure 1: Checkout Times](story_01_checkoutTimes.png)
+
+
+
+
+![Figure 2: Trips](story_02_trips.png)
+
+
+
+
+
+![Figure 3: User Data](story_03.png)
+
+
+
+
+![Figure 1: Trips By Age](story_04.png)
+
